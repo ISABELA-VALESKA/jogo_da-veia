@@ -1,0 +1,10 @@
+H:\LÓGICA VISUAL STUDIO\Projects\Jogo_da_velha\Jogo_da_velha\bin\Debug\Jogo_da_velha.exe.config
+H:\LÓGICA VISUAL STUDIO\Projects\Jogo_da_velha\Jogo_da_velha\bin\Debug\Jogo_da_velha.exe
+H:\LÓGICA VISUAL STUDIO\Projects\Jogo_da_velha\Jogo_da_velha\bin\Debug\Jogo_da_velha.pdb
+H:\LÓGICA VISUAL STUDIO\Projects\Jogo_da_velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.csproj.AssemblyReference.cache
+H:\LÓGICA VISUAL STUDIO\Projects\Jogo_da_velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.Form1.resources
+H:\LÓGICA VISUAL STUDIO\Projects\Jogo_da_velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.Properties.Resources.resources
+H:\LÓGICA VISUAL STUDIO\Projects\Jogo_da_velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.csproj.GenerateResource.cache
+H:\LÓGICA VISUAL STUDIO\Projects\Jogo_da_velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.csproj.CoreCompileInputs.cache
+H:\LÓGICA VISUAL STUDIO\Projects\Jogo_da_velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.exe
+H:\LÓGICA VISUAL STUDIO\Projects\Jogo_da_velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.pdb
